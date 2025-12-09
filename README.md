@@ -49,8 +49,7 @@ Pronto! O site já estará rodando.
 
 🌐 Deploy (GitHub Pages)
 
-Se o projeto estiver publicado, adicione aqui:
-🔗 Link do projeto: [https://github.com/ThiagoSNunes-Dev](https://github.com/ThiagoSNunes-Dev/Gerenciador-de-medimentos)
+🔗 Link do projeto: https://thiagosnunes-dev.github.io/Gerenciador-de-medimentos
 
 🖼️ Capturas de Tela
 
